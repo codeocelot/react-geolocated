@@ -35,7 +35,7 @@
     "cz-conventional-changelog": "^2.0.0",
     "eslint": "^4.1.0",
     "eslint-loader": "^1.8.0",
-    "eslint-plugin-react": "^7.1.0",
+    "eslint-plugin-react": "^7.2.1",
     "extract-text-webpack-plugin": "^2.0.0-rc.2",
     "file-loader": "^1.0.0",
     "git-prepush-hook": "^1.0.1",
