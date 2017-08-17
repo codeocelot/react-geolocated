@@ -19,7 +19,7 @@
   "main": "dist-modules",
   "typings": "./index.d.ts",
   "devDependencies": {
-    "babel-cli": "^6.10.1",
+    "babel-cli": "6.24.1",
     "babel-core": "^6.10.4",
     "babel-eslint": "^7.2.3",
     "babel-jest": "^20.0.2",
